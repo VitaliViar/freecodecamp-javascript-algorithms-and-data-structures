@@ -1,0 +1,4 @@
+const myVar = 13 * 13;
+
+const product = 8 * 0;
+const product = 8 * 10;
