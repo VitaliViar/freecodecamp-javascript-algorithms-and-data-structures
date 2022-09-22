@@ -1,0 +1,6 @@
+Разделите одно десятичное число на другое с помощью JavaScript
+Теперь разделим одну десятичную дробь на другую.
+
+Измените 0.0так, чтобы quotientон был равен 2.2.
+const quotient = 0.0 / 2.0; // Change this line
+const quotient = 4.4 / 2.0; // Change this line
