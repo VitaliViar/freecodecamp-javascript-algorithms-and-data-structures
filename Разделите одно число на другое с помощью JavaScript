@@ -1,0 +1,4 @@
+const myVar = 16 / 2;
+const quotient = 66 / 0;
+
+const quotient = 66 / 33;
