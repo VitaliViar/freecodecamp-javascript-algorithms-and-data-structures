@@ -1,0 +1,27 @@
+Понимание неизменности строк
+В JavaScript Stringзначения являются неизменяемыми , что означает, что их нельзя изменить после создания.
+
+Например, следующий код выдаст ошибку, поскольку букву Bв строке Bobнельзя заменить на букву J:
+
+let myStr = "Bob";
+myStr[0] = "J";
+Обратите внимание, что это не означает, что myStrнельзя переназначить. Единственный способ изменить myStrэто — присвоить ему новое значение, например:
+
+let myStr = "Bob";
+myStr = "Job";
+Исправьте присваивание, myStrчтобы оно содержало строковое значение, Hello Worldиспользуя подход, показанный в приведенном выше примере.
+
+// Setup
+let myStr = "Jello World";
+
+// Only change code below this line
+myStr[0] = "H"; // Change this line
+// Only change code above this lin
+
+
+// Setup
+let myStr = "Jello World";
+
+// Only change code below this line
+myStr = "Hello World"; // Change this line
+// Only change code above this line
