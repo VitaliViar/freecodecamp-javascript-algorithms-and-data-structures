@@ -1,0 +1,13 @@
+Вложение одного массива в другой массив
+Вы также можете вкладывать массивы в другие массивы, как показано ниже:
+
+const teams = [["Bulls", 23], ["White Sox", 45]];
+Это также называется многомерным массивом .
+
+Создайте вложенный массив с именем myArray.
+
+// Only change code below this line
+const myArray = [];
+
+// Only change code below this line
+const myArray = [["Bulls", 23]];
